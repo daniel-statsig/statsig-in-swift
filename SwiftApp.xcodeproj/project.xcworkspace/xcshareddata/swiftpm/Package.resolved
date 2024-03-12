@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/statsig-io/ios-sdk/",
+      "state" : {
+        "revision" : "1bcdcfa5557b001ae8a51bbc0d38741a18949779",
+        "version" : "1.36.0"
+      }
+    }
+  ],
+  "version" : 2
+}
